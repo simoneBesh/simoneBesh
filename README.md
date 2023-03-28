@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @simoneBesh
-- 👀 I’m 13 years old and am currently learning Javascript and HTML! I have created some basic web games, and am now experimenting with website and front end stuff. 
+- 👀 I’m 15 years old and am currently learning React.Js and Python! I have created some basic web games, and am now experimenting with website and front end stuff. 
 - 🌱 Other than that, I am interested in learning new things, reading all kinds of books, playing piano and furthering my knowledge!  
 - 💞️ I’m looking to learn more from everyone here and hopefully improve my skills!
 
